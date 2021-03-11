@@ -1,2 +1,2 @@
 # Py-NAT
-Python Based Naval Architecture Tutorials
+Python Based Naval Architecture Tools
