@@ -1,14 +1,13 @@
 """
 ************************************************************************************
-    File            : HullGeometry.py
+    File            : FileSystems.py
     
     File Purpose    : Define the Class "FileSystems"
     
     Class Purpose   : 
-                    -> Read the Hull Geometry definition data from the File "SetHullGeom.dat" 
-                    -> Create the data variables defining the ship Hull Geometry
-                    -> Create and prepare a "SectionCurves" object for each station
-                    -> Print the read Data to console
+                    -> Stores all the File system related data
+                    -> Directory names
+                    -> File names
     
     App             : PyNAT - Python Based Naval Architecture Tools 
     Version         : 2021.0
