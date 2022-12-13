@@ -3,13 +3,18 @@
 Details of Application:
 -----------------------------------
 Name 		: PyNAT.exe
+
 Size 		: 63.5 MB
+
 Language 	: Python
+
 Libraries used  : NumPy, Matlibplot and SciPy
+
 Packaged using 	: Pyinstaller
+
 Paradigm 	: Object Oriented Model
-Platform 	: Developed for Windows 10, but works cross platform
-                  Stand alone application
+
+Platform 	: Developed for Windows 10, Needs re compilation of source code to work cross platfom, Stand alone application
 
 PyNAT is a Python based Naval Architecture tool written to compute
 
