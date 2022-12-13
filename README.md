@@ -1,7 +1,5 @@
 # Py-NAT
 
-This Video is intended to demonstrate a small open source tool named "PyNAT"
-
 Details of Application:
 -----------------------------------
 Name 		: PyNAT.exe
