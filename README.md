@@ -23,7 +23,7 @@ The following hull forms can be analysed,
 
  1. Only Mono Hulls with port / starboard symmetry
  2. Hull form must be definable using station curves along the length
- 2. Chine hull forms
+ 2. Hull forms with chines and knuckles
  3. Hull forms with discontinuous curves (near bow and stern)
 
 No installation is required to use this CUI application. 
