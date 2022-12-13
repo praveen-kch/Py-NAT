@@ -16,6 +16,8 @@ Paradigm 	: Object Oriented Model
 
 Platform 	: Developed for Windows 10, Needs re compilation of source code to work cross platfom, Stand alone application
 
+Description:
+-----------------------------------
 PyNAT is a Python based Naval Architecture tool written to compute
 
  1. Hydro-statics at even keel and and at given trim angles
