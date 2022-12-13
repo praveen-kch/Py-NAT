@@ -14,7 +14,9 @@ Packaged using 	: Pyinstaller
 
 Paradigm 	: Object Oriented Model
 
-Platform 	: Developed for Windows 10, Needs re compilation of source code to work cross platfom, Stand alone application
+Platform 	: Developed for Windows 10, Needs re compilation of source code to make it work cross platfom
+
+Application is standalone no need of internet / server connection.
 
 Description:
 -----------------------------------
